@@ -1,3 +1,6 @@
 .aboutBtn{
     margin-bottom: 10px;
 }
+.accordion-button::after{
+    filter: invert(1);
+}
